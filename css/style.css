@@ -101,3 +101,9 @@ body {
 .green-underline {
     border-bottom: 1px solid rgba(19, 128, 36, 0.9);
 }
+
+/* NAVBAR */
+.navbar-brand {
+    font-family: 'Cubano-Regular';
+    padding-right: 15px;
+}
