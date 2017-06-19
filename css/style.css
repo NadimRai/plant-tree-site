@@ -108,6 +108,21 @@ body {
     padding-right: 15px;
 }
 
-#main-nav{
+#exCollapsingNavbar2 {
     font-family: 'Nunito-Regular';
 }
+
+.nav-item a {
+    border-bottom: 1px solid transparent;
+    transition: 0.5s;
+}
+
+.nav-item a:hover {
+    border-bottom: 1px solid green;
+    transition: 0.5s;
+}
+
+.navbar-toggler {
+    color: white;
+}
+
